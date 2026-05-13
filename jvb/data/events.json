@@ -16,5 +16,11 @@
     "desc": "Testar igen nytt event",
     "place": "hemma",
     "date": "2026-05-16"
+  },
+  {
+    "title": "Testar",
+    "desc": "Testar gammal event igen!",
+    "place": "hemma",
+    "date": "2026-02-13"
   }
 ]
