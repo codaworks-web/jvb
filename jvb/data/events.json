@@ -1,11 +1,5 @@
 [
   {
-    "title": "Test av gammalt event",
-    "desc": "Detta event ska vara Expired",
-    "place": "Bräcke",
-    "date": "2026-01-21"
-  },
-  {
     "title": "Möt oss i Bräcke!",
     "desc": "Möt oss i Bräcke",
     "place": "Bräcke",
@@ -16,11 +10,5 @@
     "desc": "Testar igen nytt event",
     "place": "hemma",
     "date": "2026-05-16"
-  },
-  {
-    "title": "Testar",
-    "desc": "Testar gammal event igen!",
-    "place": "hemma",
-    "date": "2026-02-13"
   }
 ]
