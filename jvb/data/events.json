@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "title": "Test",
+    "desc": "Test av aktivt event",
+    "place": "Bräcke",
+    "date": "2026-05-14"
+  }
+]
