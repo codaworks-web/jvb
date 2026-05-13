@@ -4,5 +4,11 @@
     "desc": "Test",
     "place": "Bräcke",
     "date": "2026-05-14"
+  },
+  {
+    "title": "Test av gammalt event",
+    "desc": "Detta event ska vara Expired",
+    "place": "Bräcke",
+    "date": "2026-01-21"
   }
 ]
