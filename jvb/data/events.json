@@ -1,12 +1,6 @@
 [
   {
     "title": "Test av adminfunktion",
-    "desc": "Test av aktivt event",
-    "place": "Hemma",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "Test av adminfunktion",
     "desc": "Test av inaktivt event",
     "place": "Hemma",
     "date": "2026-01-21"
